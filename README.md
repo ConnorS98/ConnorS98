@@ -13,8 +13,8 @@
 Hey, I'm Connor! I love to program and create new things. I've recently discovered a passion for iOS development and am excited to keep working with Swift and see where it takes me. When I'm not sitting around my apartment I enjoy rock climbing and going for walks to get some fresh air and look for inspiration for new ideas and projects.
 
 #### Where I am and what I'm doing.
-- 🔭 I’m currently working on iOS Apps
-- 🌱 I’m currently learning Swift & SwiftUI
+- 🔭 I’m currently working on iOS Apps, and a website using Angular
+- 🌱 I’m currently learning Swift, Angular, and Spring Boot
 - 💼 I graduated from the University of Wisconsin-Eau Claire with a B.S. in Computer Science - Software Engineering
 - 💬 Ask me about anything you want to!
 - 📫 How to reach me: Click the mail icon above ⬆️
